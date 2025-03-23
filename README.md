@@ -1,7 +1,6 @@
 # velpTEC Weiterbildung -- Modul: GitHub/GitLab -- Teilprüfung 1
 
-***bearbeitet von: Susanne Nienhaus***
-***bearbeitet am: 21.03.25***
+***bearbeitet von: Susanne Nienhaus***, ***bearbeitet am: 21.03.25***
 
 ## Aufgabe a: GitHub Repository Setup
 1. bei GitHub anmelden: 
